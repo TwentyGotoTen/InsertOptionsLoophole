@@ -1,0 +1,9 @@
+C:\Development\GitHub\InsertOptionsLoophole\InsertOptionsLoophole\InsertOptionsLoophole\obj\Debug\InsertOptionsLoophole.csprojResolveAssemblyReference.cache
+C:\Development\GitHub\InsertOptionsLoophole\InsertOptionsLoophole\InsertOptionsLoophole\bin\Debug\Sitecore.Kernel.dll
+C:\Development\GitHub\InsertOptionsLoophole\InsertOptionsLoophole\InsertOptionsLoophole\bin\Debug\Sitecore.Kernel.xml
+C:\Development\GitHub\InsertOptionsLoophole\InsertOptionsLoophole\InsertOptionsLoophole\bin\Debug\Sitecore.Client.dll
+C:\Development\GitHub\InsertOptionsLoophole\InsertOptionsLoophole\InsertOptionsLoophole\bin\Debug\Sitecore.Analytics.dll
+C:\Development\GitHub\InsertOptionsLoophole\InsertOptionsLoophole\InsertOptionsLoophole\bin\Debug\Loopholes.dll
+C:\Development\GitHub\InsertOptionsLoophole\InsertOptionsLoophole\InsertOptionsLoophole\bin\Debug\Loopholes.pdb
+C:\Development\GitHub\InsertOptionsLoophole\InsertOptionsLoophole\InsertOptionsLoophole\obj\Debug\Loopholes.dll
+C:\Development\GitHub\InsertOptionsLoophole\InsertOptionsLoophole\InsertOptionsLoophole\obj\Debug\Loopholes.pdb
